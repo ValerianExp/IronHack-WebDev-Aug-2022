@@ -1,3 +1,6 @@
 [submodule "0 - PreWork/NPM-Clone"]
 	path = 0 - PreWork/NPM-Clone
 	url = https://github.com/ValerianExp/NPM-Clone
+[submodule "1 - Week 1/lab-css-instagram-clone-master"]
+	path = 1 - Week 1/lab-css-instagram-clone-master
+	url = https://github.com/ValerianExp/lab-css-instagram-clone-master
