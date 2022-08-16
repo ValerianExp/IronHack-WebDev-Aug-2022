@@ -16,3 +16,12 @@
 [submodule "1 - Week 1/lab-javascript-functions-and-arrays"]
 	path = 1 - Week 1/lab-javascript-functions-and-arrays
 	url = https://github.com/ValerianExp/lab-javascript-functions-and-arrays
+[submodule "1 - Week 1/lab-javascript-vikings"]
+	path = 1 - Week 1/lab-javascript-vikings
+	url = https://github.com/ValerianExp/lab-javascript-vikings
+[submodule "1 - Week 1/lab-javascript-clue"]
+	path = 1 - Week 1/lab-javascript-clue
+	url = https://github.com/ValerianExp/lab-javascript-clue
+[submodule "1 - Week 1/lab-dom-ironhack-cart"]
+	path = 1 - Week 1/lab-dom-ironhack-cart
+	url = https://github.com/ValerianExp/lab-dom-ironhack-cart
