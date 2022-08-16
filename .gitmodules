@@ -13,3 +13,6 @@
 [submodule "1 - Week 1/lab-css-flexbox-slack"]
 	path = 1 - Week 1/lab-css-flexbox-slack
 	url = https://github.com/ValerianExp/lab-css-flexbox-slack
+[submodule "1 - Week 1/lab-javascript-functions-and-arrays"]
+	path = 1 - Week 1/lab-javascript-functions-and-arrays
+	url = https://github.com/ValerianExp/lab-javascript-functions-and-arrays
