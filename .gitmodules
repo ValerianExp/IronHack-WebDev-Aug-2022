@@ -7,3 +7,6 @@
 [submodule "1 - Week 1/lab-css-spotify-clone"]
 	path = 1 - Week 1/lab-css-spotify-clone
 	url = https://github.com/Carlos-Vallejo-Bustamante/lab-css-spotify-clone
+[submodule "1 - Week 1/lab-bootstrap-cloning-revera"]
+	path = 1 - Week 1/lab-bootstrap-cloning-revera
+	url = https://github.com/ValerianExp/lab-bootstrap-cloning-revera
