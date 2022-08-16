@@ -25,3 +25,6 @@
 [submodule "1 - Week 1/lab-dom-ironhack-cart"]
 	path = 1 - Week 1/lab-dom-ironhack-cart
 	url = https://github.com/ValerianExp/lab-dom-ironhack-cart
+[submodule "2 - Week 2/lab-javascript-greatest-movies"]
+	path = 2 - Week 2/lab-javascript-greatest-movies
+	url = https://github.com/ValerianExp/lab-javascript-greatest-movies
