@@ -10,3 +10,6 @@
 [submodule "1 - Week 1/lab-bootstrap-cloning-revera"]
 	path = 1 - Week 1/lab-bootstrap-cloning-revera
 	url = https://github.com/ValerianExp/lab-bootstrap-cloning-revera
+[submodule "1 - Week 1/lab-css-flexbox-slack"]
+	path = 1 - Week 1/lab-css-flexbox-slack
+	url = https://github.com/ValerianExp/lab-css-flexbox-slack
